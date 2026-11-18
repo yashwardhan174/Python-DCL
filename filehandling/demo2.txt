@@ -1,0 +1,4 @@
+a for apple
+b for balls
+c for cat
+This is append modeThis is append modeThis is append mode

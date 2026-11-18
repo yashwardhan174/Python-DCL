@@ -1,0 +1,3 @@
+Today is Friday
+tomorrow is saturday
+saturday is mockday
